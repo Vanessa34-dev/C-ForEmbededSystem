@@ -11,3 +11,5 @@ download and run ubuntu on docker (docker run -ti -v $HOME/test:/mnt ubuntu:bion
 download and install qemu (https:/​/​www.​qemu.​org/​download/),
 download Raspbian Lite image, Kernel image and Device tree blob,
 emulate a Raspberry Pi–like ARM system using QEMU.
+
+2- install cross compilation tools for ARM on the build system
