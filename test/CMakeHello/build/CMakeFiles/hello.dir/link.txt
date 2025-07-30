@@ -1,0 +1,1 @@
+/usr/bin/arm-linux-gnueabi-g++     CMakeFiles/hello.dir/hello.cpp.o  -o hello 

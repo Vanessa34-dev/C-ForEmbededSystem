@@ -1,0 +1,3 @@
+/mnt/fixed_types/build/CMakeFiles/rebuild_cache.dir
+/mnt/fixed_types/build/CMakeFiles/fixed_types.dir
+/mnt/fixed_types/build/CMakeFiles/edit_cache.dir
