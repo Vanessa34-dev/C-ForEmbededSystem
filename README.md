@@ -1,4 +1,4 @@
-# C-ForEmbededSystem
+# C++ ForEmbededSystem
 Note: on embedded programming requires two systems:
                         A build system: The system we use to write the code
                         A target system: The system our code is going to be run on
