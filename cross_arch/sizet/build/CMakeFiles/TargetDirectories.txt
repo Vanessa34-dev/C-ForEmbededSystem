@@ -1,0 +1,3 @@
+/mnt/sizet/build/CMakeFiles/rebuild_cache.dir
+/mnt/sizet/build/CMakeFiles/sizet.dir
+/mnt/sizet/build/CMakeFiles/edit_cache.dir
