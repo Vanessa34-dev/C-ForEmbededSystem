@@ -1,0 +1,3 @@
+/mnt/test/CMakeFiles/rebuild_cache.dir
+/mnt/test/CMakeFiles/hello.dir
+/mnt/test/CMakeFiles/edit_cache.dir
