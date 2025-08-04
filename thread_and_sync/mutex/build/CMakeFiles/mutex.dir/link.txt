@@ -1,0 +1,1 @@
+/usr/bin/arm-linux-gnueabi-g++  --std=c++11   CMakeFiles/mutex.dir/mutex.cpp.o  -o mutex -lpthread 
