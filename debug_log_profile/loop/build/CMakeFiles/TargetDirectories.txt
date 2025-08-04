@@ -1,0 +1,3 @@
+/mnt/debug_log_profile/loop/build/CMakeFiles/rebuild_cache.dir
+/mnt/debug_log_profile/loop/build/CMakeFiles/loop.dir
+/mnt/debug_log_profile/loop/build/CMakeFiles/edit_cache.dir

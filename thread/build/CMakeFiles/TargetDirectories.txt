@@ -1,0 +1,3 @@
+/mnt/thread/build/CMakeFiles/rebuild_cache.dir
+/mnt/thread/build/CMakeFiles/threads.dir
+/mnt/thread/build/CMakeFiles/edit_cache.dir
